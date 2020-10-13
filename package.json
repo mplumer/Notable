@@ -1,5 +1,5 @@
 {
-  "name": "Notable",
+  "name": "notable",
   "version": "1.0.0",
   "description": "A note taking application that uses an Express.js back end and will save and retrieve note data from a JSON file.",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mplumer/Noteable.git"
+    "url": "git+https://github.com/mplumer/Notable.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mplumer/Noteable/issues"
+    "url": "https://github.com/mplumer/Notable/issues"
   },
-  "homepage": "https://github.com/mplumer/Noteable#readme",
+  "homepage": "https://github.com/mplumer/Notable#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
