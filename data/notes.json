@@ -1,14 +1,29 @@
 {
   "notes": [
     {
-      "title": "new note",
-      "text": "test note",
+      "title": "Call Pete",
+      "text": "Discuss potential new line",
       "id": "0"
     },
     {
-      "title": "another note",
-      "text": "another note\n",
+      "title": "Finish invoices",
+      "text": "make sure to get all invoices sent out by tues",
       "id": "1"
+    },
+    {
+      "title": "Complete challenge",
+      "text": "finish the challenge for module 11",
+      "id": "2"
+    },
+    {
+      "title": "Shabba medicine",
+      "text": "give shabba his flea medicine on fri",
+      "id": "3"
+    },
+    {
+      "title": "Groceries",
+      "text": "need milk, eggs, beef",
+      "id": "4"
     }
   ]
 }
